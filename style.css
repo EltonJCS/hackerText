@@ -45,6 +45,19 @@ h1 {
   margin-top: 1rem;
 }
 
+#mouse_glow {
+  position: fixed;
+  z-index: -1;
+  height: 150px;
+  aspect-ratio: 1;
+  left: 50%;
+  bottom: -20%;
+  translate: -50% -50%;
+  border-radius: 50%;
+  background: #090;
+  filter: blur(100px);
+}
+
 .inputs {
   width: clamp(14rem, 25%, 80%);
   margin-top: 4rem;
@@ -60,6 +73,10 @@ h1 {
   font-size: 1rem;
   border: 1px solid #090;
   border-radius: 1rem;
+}
+.inputs input:hover,
+.inputs input:focus {
+  background-color: #000;
 }
 
 .footer {
