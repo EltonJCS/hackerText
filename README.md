@@ -4,6 +4,6 @@
   <p>Simple scrambled text animation using javascript.</p>
 
   <a href="https://EltonJCS.github.io/hackerText"><b>Live preview</b></p>
-  <img src="https://i.ibb.co/z79WCtX/hacker-Text.png" alt="Preview image">
+  <img src="https://i.ibb.co/Y4SxfJ6/hacker-Text.png" alt="Preview image">
   <p>Made with 🖤 by <a href="https://github.com/eltonjcs">EltonJCS</a></p>
 </div>
